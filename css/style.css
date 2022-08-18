@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background: white;
+  }
+  
+  header {
+    padding: 50px;
+    background-color: aquamarine;
+    text-align: center;
+  }
+  
+  
+  .mapadiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .mapadiv path {
+    fill: khaki;
+    stroke: saddlebrown;
+    stroke-width: 2px;
+  }
+  
+  .mapadiv :hover{
+  fill: maroon;
+  }
+  
+  footer {
+    padding: 20px;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
