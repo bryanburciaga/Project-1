@@ -11,7 +11,7 @@ Tecnologies used
 
 ![covid tracker](https://i.imgur.com/pFUaRcN.png)
 
-<a href="https://github.com/bryanburciaga/Project-1" target="_blank">Click here</a> to see the code in <a href="https://github.com/" target="_blank">git hub</a>
+<a href="https://jocular-belekoy-567b32.netlify.app/" target="_blank">Click here</a> to see the code in <a href="https://github.com/" target="_blank">git hub</a>
 
 
 Future Enhancements
